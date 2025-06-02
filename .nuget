@@ -1,0 +1,4 @@
+dotnet add package Azure.Identity
+dotnet add package Azure.ResourceManager
+dotnet add package Azure.ResourceManager.Storage
+dotnet add package Azure.Storage.Blobs
